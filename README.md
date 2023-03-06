@@ -8,7 +8,25 @@
 - 🌱 I’m currently learning **.Net Core and Angular**
 
 - 📫 How to reach me **onurabbasoglu26@gmail.com**
+</br>
+<h3> Technologies:</h3>
+<div>
+<p> -Frontend : Angular (Currently learning) </p>
+<p> -Backend : .Net Core Mvc/Api (2.2, 3.1, 5.0, 6.0) </p>
+<p> -Database : Mssql, MySQL, PostgreSQL </p>
+<p> -Mobile : </p>
+<p> -Other : Docker </p>
+</div>
 
+<h3> Methodologies : </h3>
+<p> -Scrum </p>
+
+<h3> Principles & Architectures: </h3>
+<p> -DRY </p>
+<p> -SOLID </p>
+<p> -N-Layer </p>
+<p> -MICROSERVICE </p>
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/onurabbasoglu26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onurabbasoglu26" height="30" width="40" /></a>
